@@ -1,4 +1,6 @@
 
+## ANDROID
+
 1. [http://androidexample.com/](http://androidexample.com/)
 
 1. [https://www.codester.com/free/](https://www.codester.com/free/) 
@@ -68,16 +70,17 @@
     https://www.tutorialspoint.com/index.htm    <br/>
     https://www.tutorialspoint.com/android/index.htm
 
+1. **[https://www.javatpoint.com/android-tutorial ](https://www.javatpoint.com/android-tutorial )     (THE ONLINE Tutorials Library)**   (That Example is Explicate By words, without code.) 
+
+1. **[https://www.tutlane.com/tutorial/android/android-animations-with-examples](https://www.tutlane.com/tutorial/android/android-animations-with-examples)       (Android Animations with Examples)**
+
+1. **[https://androidexample365.com/tag/animations/](https://androidexample365.com/tag/animations/)    (Android Animations)**
+
+1. **[https://www.codota.com/get#android-studio](https://www.codota.com/get#android-studio)**
+    **https://www.tabnine.com/code**
 
 
-
-1. [http://androidexample.com/](http://androidexample.com/)
-
-1. [http://androidexample.com/](http://androidexample.com/)
-
-1. AND MORE ...
-
-
+## ANDROID (DevOps) 
 
 1. [https://github.com/topics/docker](https://github.com/topics/docker)
 
